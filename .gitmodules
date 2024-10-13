@@ -1,0 +1,3 @@
+[submodule "damstore"]
+	path = damstore
+	url = https://github.com/Farmerintech/dammystore.git
