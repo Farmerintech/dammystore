@@ -58,7 +58,6 @@ const navigate = useNavigate()
         }, 500)
         navigate(`/${productType}/${category}/${id}`);
         window.scrollTo({top:0, behavior:'smooth'})
-
     }
 
     const [currentIndex, setCurrentIndex] = useState(0);
